@@ -36,3 +36,6 @@ When run in a Docker container, the results will be shown in the container's ter
 
 Notes
 The semantic similarity scores depend on the spaCy language model used. This repository uses 'en_core_web_md' for better accuracy.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
