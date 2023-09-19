@@ -9,10 +9,10 @@ This project demonstrates semantic similarity analysis using spaCy.
 
 ## Installation
 
-1. Clone this repository: git clone https://github.com/your-username/semantic-similarity-analysis.git
+Clone this repository: git clone https://github.com/vdp11/semantic-similarity-analysis.git
    cd semantic-similarity-analysis
 
-Usage
+## Usage
 Running the Semantic Similarity Analysis
 To analyze semantic similarity between words or phrases, run the semantic.py script:
 
@@ -30,12 +30,12 @@ Run the Docker container:
 bash
 docker run -it semantic-analysis
 
-Results
+## Results
 The script will calculate and display semantic similarity scores between words or phrases.
 When run in a Docker container, the results will be shown in the container's terminal.
 
-Notes
+## Notes
 The semantic similarity scores depend on the spaCy language model used. This repository uses 'en_core_web_md' for better accuracy.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
