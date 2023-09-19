@@ -16,18 +16,18 @@ Clone this repository: git clone https://github.com/vdp11/semantic-similarity-an
 Running the Semantic Similarity Analysis
 To analyze semantic similarity between words or phrases, run the semantic.py script:
 
-bash
+'''bash
 python semantic_similarity/semantic.py
 Running the Docker Container
 Alternatively, you can run the script in a Docker container:
 
 Build the Docker image (from the root of the repository):
 
-bash
+'''bash
 docker build -t semantic-analysis .
 Run the Docker container:
 
-bash
+'''bash
 docker run -it semantic-analysis
 
 ## Results
