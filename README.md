@@ -29,7 +29,8 @@ Build the Docker image (from the root of the repository):
 
 docker build -t semantic-analysis .
 
-Run the Docker container:
+
+And then run the Docker container:
 
 '''bash
 
