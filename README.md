@@ -20,3 +20,5 @@ Open your terminal or command prompt and run the following command to clone this
 
 ```bash
 git clone https://github.com/vdp11/semantic-similarity-analysis.git
+
+Usage
